@@ -1,0 +1,10 @@
+# Local terraform directories (Heavy binaries)
+**/.terraform/*
+.terraform/
+
+# State files (Sensitive data)
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+*.log
